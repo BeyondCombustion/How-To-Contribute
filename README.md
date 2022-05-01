@@ -1,6 +1,8 @@
-# Want To Contribute
+# Want To Contribute?
 
-This GitHub is a placeholder for a future project. In the menatime, we'd like to build a collection of other communities and information to share.
+This GitHub is a placeholder for a future project to suppliment the /r/vaporents subreddit which is already in the works.
+
+In the menatime, we'd like to build a collection of other communities and information to share.
 
 If you know how to use GitHub, submit a pull request! :-)
 
