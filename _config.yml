@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: "Want To Contribute To BeyondCombustion.net?"
-discription: [We’re working to build a collection of information and other communities relevant to dry herb vaping to share. Want to help by adding or updating content? Read on to learn how you can take part!]
+discription: ["We’re working to build a collection of information and other communities relevant to dry herb vaping to share. Want to help by adding or updating content? Read on to learn how you can take part!"]
 domain: beyondcombustion.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://beyondcombustion.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 # Your name, as you want it to appear underneath each post and in the footer
