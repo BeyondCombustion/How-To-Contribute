@@ -11,3 +11,5 @@
 #### If this seems like too much effort or if you run into issues, no big deal.
 
 [Send an email the BeyondCombustion.net team](mailto:admin@beyondcombustion.net) with your suggested content addition to BeyondCombustion and we'll get it added.
+
+[Return to the BeyondCombustion.net homepage](https://beyondcombustion.net)
