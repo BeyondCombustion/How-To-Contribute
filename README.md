@@ -6,7 +6,7 @@
 
 **3rd**, make your update/changes to the Fork you created in your GitHub account.
 
-**Finally**, once you're satisfied with your proposed changes [create a pull request from your fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) and we'll work on getting it merged! :-)
+**Finally**, once you're satisfied with your proposed changes [create a pull request from your Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) and we'll work on getting it merged! :-)
 
 #### If this seems like too much effort or if you run into issues, no big deal.
 
