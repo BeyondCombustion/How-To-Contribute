@@ -1,9 +1,14 @@
-# Want To Contribute?
+# Want To Contribute To BeyondCombustion.net?
+### We'd like to build a collection of information and other communities relivant to dry herb vaping to share. Want to help by adding or updating content?
 
-This GitHub is a placeholder for a future project to supplement the /r/vaporents subreddit which is already in the works.
+## How To Add/Modify Content On BeyondCombustion.net:
 
-In the menatime, we'd like to build a collection of other communities and information to share.
+**1st** you'll need to [create a GitHub account](https://github.com/signup)
 
-If you know how to use GitHub, [submit a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)! :-)
+**2nd**, [make a 'Fork' of the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) you want to update.
 
-If not, no big deal, send us an email at admin@beyondcombustion.net with your suggestion for the project and we'll get it added.
+**3rd** make your update/changes to the Fork you created in your GitHub account.
+
+**Finally**, once you're satisfied with your proposed changes [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) and we'll work on getting it merged! :-)
+
+If this seems like too much effort or if you run into issues, no big deal send us an email at admin@beyondcombustion.net with your suggested content addition to BeyondCombustion and we'll get it added.
