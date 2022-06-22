@@ -1,5 +1,5 @@
 # Want To Contribute To BeyondCombustion.net?
-### We'd like to build a collection of information and other communities relevant to dry herb vaping to share. Want to help by adding or updating content?
+#### We'd like to build a collection of information and other communities relevant to dry herb vaping to share. Want to help by adding or updating content? Read on to learn how you can take part!
 
 ## How To Add/Modify Content On BeyondCombustion.net:
 
