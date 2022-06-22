@@ -12,4 +12,12 @@
 
 [Send an email the BeyondCombustion.net team](mailto:admin@beyondcombustion.net) with your suggested content addition to BeyondCombustion and we'll get it added.
 
-[Return to the BeyondCombustion.net homepage](https://beyondcombustion.net)
+## Navigation
+
+### [Return to BeyondCombustion.net](https://www.beyondcombustion.net/The-Book-fka-The-Consensus/)
+
+### [Jump to The 'Book' and The 'List'](https://www.beyondcombustion.net/The-Book-fka-The-Consensus/)
+
+### [Review the Glossary](https://BeyondCombustion.net/Glossery/)
+
+### [Go to The Beginners Guide](https://BeyondCombustion.net/Beginners-Start-Here/)
